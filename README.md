@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJxZ3QwejJqemxvdmNzd2VsaGc3NDQzMDF6Z2psY3FwbXkzdjd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E7kUhnT9eDok/giphy.gif"  />
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJxZ3QwejJqemxvdmNzd2VsaGc3NDQzMDF6Z2psY3FwbXkzdjd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E7kUhnT9eDok/giphy.gif"  />
 </div>
 
 ###
